@@ -1,5 +1,5 @@
 # Compatibility Tester
-A compatibility tester for LaraPass v2
+A compatibility tester for [**LaraPass v2**](https://larapass.net)
 
 # How to use
 + Download the index.php file from the **src** dirctory.
