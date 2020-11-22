@@ -195,7 +195,7 @@
         <div class="container-xl text-center">
             <div class="row align-items-center">
                 <div class="col-md-6">
-                    2018-20 &copy; <a href="https://larapass.net" target="_blank">LaraPass</a> (a product of <a href="https://spargon.tech" target="_blank">Spargon Technologies</a>)
+                    2018-20 &copy; <a href="https://larapass.net" target="_blank">LaraPass</a> (a product by <a href="https://spargon.tech" target="_blank">Spargon Technologies</a>)
                 </div>
                 <div class="col-md-6 align-center">
                     <ul class="nav nav-sm">
