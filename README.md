@@ -8,7 +8,7 @@ A compatibility tester for [**LaraPass v2**](https://larapass.net)
 + If your server meets the minimum requirements for installing LaraPass v2, you will get a **success** message, otherwise, it will show you which extension is missing.
 + You can purchase LaraPass v2 [here](https://larapass.net).
 
-![screenshot](https://larapass.net/assets/img/compatibility-tester.png)
+![screenshot](https://larapass.net/assets/images/compatibility-tester.png)
 
 # Official Docs
 + LaraPass v2 (Person/Teams/SaaS Versions) Documentation can be found here - https://github.com/LaraPass/Docs
